@@ -1,7 +1,7 @@
 hivemq-mqtt-web-client
 ======================
 
-*update js file 原作者的项目有很久没有更新了，一些js脚本已经下载不了，我从https://www.bootcdn.cn/更新了一下js脚本，项目可以正常运行了,并且增加了Docker使用方式*
+*update js file 原作者的项目有很久没有更新了，一些js脚本已经下载不了，我从 https://www.bootcdn.cn/ 更新了一下js脚本，项目可以正常运行了,并且增加了Docker使用方式*
 
 ## A websockets based MQTT Client for your browser.
 
