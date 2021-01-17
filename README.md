@@ -1,6 +1,8 @@
 hivemq-mqtt-web-client
 ======================
 
+*update js file 原作者的项目有很久没有更新了，一些js脚本已经下载不了，我从https://www.bootcdn.cn/更新了一下js脚本，项目可以正常运行了*
+
 ## A websockets based MQTT Client for your browser.
 
 This client runs on any modern browser, which supports websockets (sorry Internet Explorer <10!).
